@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "hello-mcp-server": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\MyPrograms\\QuadrantChart",
+        "run",
+        "hello_mcp.py"
+      ],
+      "env": {}
+    }
+  }
+}
